@@ -1,0 +1,18 @@
+#2026-02-17 学习日志
+
+
+##完成学习内容
+1.element对象属性详解
+
+
+##遇到的问题
+1.dom树进一步的理解
+dom树是浏览器解析html代码的方式，开发者通过dom树能更好理解代码并编写js操作。
+2.document对象与element对象的关系
+document对象是html文档的节点，element对象是具体的元素节点，document就像树干，element则是主干，通过document对象能够获取element对象。
+3.element对象中innerHTML属性和innerTEXT属性的区别
+innerHTML赋值时会解析值中的html代码，innerTEXt只会返回字符串。
+
+
+##明日学习内容
+css操作、事件处理程序与事件类型
